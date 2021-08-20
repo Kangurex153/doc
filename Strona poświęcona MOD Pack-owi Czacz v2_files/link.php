@@ -1,0 +1,2 @@
+document.write("<br><a href=https://fireads.online/link/897/99236972 target=_blank>Chcesz <b>zarabiac na BITCOIN</b>, sprawdz jakie to proste. Kliknij tutaj</a><br><br>");
+                                 
